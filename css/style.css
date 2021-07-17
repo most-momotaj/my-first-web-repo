@@ -1,0 +1,31 @@
+*{margin:0;
+  padding:0;
+ }
+ .container{
+  display:flex;
+  justify-content: center;
+  background-image: url(../images/full.3.jpg);
+  
+} 
+ .content1{
+   width: 420px;
+   background-color: chartreuse;
+   margin-right: 20px;
+ }
+.content1 img{
+     width: 400px;
+     height: 250px;
+     border-radius: 20px;
+
+ }
+ .title{
+       color: crimson;
+       text-align: center;
+       padding:10px;
+ }
+ p{
+   color:rgb(55, 0, 255);
+   text-align: justify;
+   padding: 10px;
+ }
+      
